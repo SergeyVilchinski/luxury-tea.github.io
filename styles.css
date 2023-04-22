@@ -442,7 +442,7 @@ and (max-device-width: 480px) {
 
     .welcome--bar {
         font-size: 17px;
-        background: url(graphic/background-phone-new.png) no-repeat;
+        background-color: black;
         background-size: cover;
         background-attachment: fixed;
         height: 110vh;
